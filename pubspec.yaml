@@ -62,7 +62,7 @@ flutter:
   # the material Icons class.
   uses-material-design: true
 
-  # Perbaikan: Deklarasi Assets
+ 
   assets:
     - assets/images/logo_e_bimbingan.png 
     
