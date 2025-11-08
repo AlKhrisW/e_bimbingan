@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799588200585",
+    "project_id": "e-bimbingan1",
+    "storage_bucket": "e-bimbingan1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799588200585:android:c3a7a10ed5b950efa45658",
+        "android_client_info": {
+          "package_name": "com.example.e_bimbingan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXYMCgC38R7pEGLn60HAd4nYUJkF8h4w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
